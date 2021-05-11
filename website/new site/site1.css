@@ -1,0 +1,14 @@
+.aback{
+	background-image: url("Nature-Landscape-2018");
+	background-size: cover;
+
+}
+.carousel-inner img {
+      width: 100%;
+      height: 100%;
+  }
+  <style type="text/css">
+	body{
+		background: url("Nature-Landscape-33965.jpg");
+		background-size: cover;
+	}
